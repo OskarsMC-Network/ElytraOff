@@ -1,0 +1,8 @@
+name: ElytraOff
+version: ${project.version}
+main: com.oskarsmc.elytraoff.ElytraOff
+api-version: 1.16
+prefix: ElytraOff
+authors: [ OskarsMC ]
+description: Ultra Light Plugin to disable Elytra on Paper & Forks
+website: https://software.oskarsmc.com/
